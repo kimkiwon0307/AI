@@ -1024,3 +1024,6 @@ AI가 잘못된 원인이나 조치를 제시할 수 있기 때문입니다. 실
 **다음 교시 핵심 질문:**
 
 "머신러닝과 딥러닝이 데이터를 학습하는 기술이라면, ChatGPT나 Qwen은 어떻게 사람의 질문에 답변하고 새로운 문장을 만들어내는 것일까?"
+
+<img width="1500" height="2050" alt="image" src="https://github.com/user-attachments/assets/f201a8dd-f57f-40b0-82b5-5fafc5dbf911" />
+
