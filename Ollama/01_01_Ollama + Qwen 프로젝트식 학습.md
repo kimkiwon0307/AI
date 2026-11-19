@@ -1,3 +1,4 @@
+<img width="1199" height="1312" alt="image" src="https://github.com/user-attachments/assets/4b2a5373-4169-4fad-b5f0-b2f661469c4f" />
 
 # Ollama + Qwen 프로젝트식 학습
 
